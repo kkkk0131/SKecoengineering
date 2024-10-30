@@ -103,7 +103,11 @@ footer {
         padding: 100px 30px;
     }
 
-    .section_2, .section_3 {
+    .section_2 {
+        padding: 0 30px 100px 30px;
+    }
+
+    .section_3 {
         padding: 0 0 100px 30px;
     }
 
